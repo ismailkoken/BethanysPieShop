@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ismail\\Projects\\MVC\\BethanysPieShop Test\\BethanysPieShop\\BethanysPieShop.csproj": {}
+    "C:\\Users\\Ismail\\source\\repos\\ismailkoken\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ismail\\Projects\\MVC\\BethanysPieShop Test\\BethanysPieShop\\BethanysPieShop.csproj": {
+    "C:\\Users\\Ismail\\source\\repos\\ismailkoken\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ismail\\Projects\\MVC\\BethanysPieShop Test\\BethanysPieShop\\BethanysPieShop.csproj",
+        "projectUniqueName": "C:\\Users\\Ismail\\source\\repos\\ismailkoken\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
         "projectName": "BethanysPieShop",
-        "projectPath": "C:\\Users\\Ismail\\Projects\\MVC\\BethanysPieShop Test\\BethanysPieShop\\BethanysPieShop.csproj",
+        "projectPath": "C:\\Users\\Ismail\\source\\repos\\ismailkoken\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
         "packagesPath": "C:\\Users\\Ismail\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ismail\\Projects\\MVC\\BethanysPieShop Test\\BethanysPieShop\\obj\\",
+        "outputPath": "C:\\Users\\Ismail\\source\\repos\\ismailkoken\\BethanysPieShop\\BethanysPieShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ismail\\AppData\\Roaming\\NuGet\\NuGet.Config",
