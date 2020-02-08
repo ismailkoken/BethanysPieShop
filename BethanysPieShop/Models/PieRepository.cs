@@ -11,7 +11,7 @@ namespace BethanysPieShop.Models
 
         public PieRepository(AppDbContext appDbContext)
         {
-            appDbContext = _appDbContext;
+            _appDbContext = appDbContext;
         }
 
         public IEnumerable<Pie> GetAllPies()
